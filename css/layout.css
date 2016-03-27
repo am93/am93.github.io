@@ -350,6 +350,21 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: mdb 1s ease;
   	-webkit-animation: mdb 1s ease;
 }
+.linux {
+  	width: 65%;
+  	-moz-animation: linux 1s ease;
+  	-webkit-animation: linux 1s ease;
+}
+.oop {
+  	width: 75%;
+  	-moz-animation: oop 1s ease;
+  	-webkit-animation: oop 1s ease;
+}
+.fp {
+  	width: 50%;
+  	-moz-animation: fp 1s ease;
+  	-webkit-animation: fp 1s ease;
+}
 
 @-moz-keyframes cpp {
   0%   { width: 0px;  }
@@ -371,6 +386,18 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
+@-moz-keyframes linux {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-moz-keyframes oop {
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-moz-keyframes fp {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
 
 @-webkit-keyframes cpp {
   0%   { width: 0px;  }
@@ -391,6 +418,18 @@ ul#nav li.current a { color: #F06000; }
 @-webkit-keyframes mdb {
   0%   { width: 0px;  }
   100% { width: 40%;  }
+}
+@-webkit-keyframes linux {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-webkit-keyframes oop {
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-webkit-keyframes fp {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
 }
 
 
