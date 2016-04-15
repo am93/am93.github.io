@@ -394,7 +394,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 75%;  }
 }
-@-webkit-keyframes fp {
+@-moz-keyframes fp {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
