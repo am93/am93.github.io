@@ -326,22 +326,22 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .cpp {
-  	width: 75%;
+  	width: 45%;
   	-moz-animation: cpp 1s ease;
   	-webkit-animation: cpp 1s ease;
 }
 .python {
-  	width: 60%;
+  	width: 80%;
   	-moz-animation: python 1s ease;
   	-webkit-animation: python 1s ease;
 }
 .matlab {
-  	width: 85%;
+  	width: 75%;
   	-moz-animation: matlab 1s ease;
   	-webkit-animation: matlab 1s ease;
 }
 .java {
-  	width: 75%;
+  	width: 85%;
   	-moz-animation: java 1s ease;
   	-webkit-animation: java 1s ease;
 }
