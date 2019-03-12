@@ -336,7 +336,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: python 1s ease;
 }
 .matlab {
-  	width: 35%;
+  	width: 25%;
   	-moz-animation: matlab 1s ease;
   	-webkit-animation: matlab 1s ease;
 }
